@@ -8,7 +8,7 @@
 
   Whenever you're doing data analysis in Python your most likely using Pandas since it's widely used and, most importantly, one of the best tools available for data analytics.
 
-  This notebook is going to show you a basic example of how you can use the pandas to generate a dataframe with API data, also assumes a little familiarity with Pandas libraries.
+  This notebook is going to show you a basic example of how you can use Pandas to generate a dataframe with API data, also assumes a little familiarity with Pandas libraries.
 
   We will use the following Imperva endpoints:
 
