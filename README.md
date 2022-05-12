@@ -14,7 +14,7 @@
 
   */api/prov/v1/sites/list* to list sites and */api/stats/v1* to get site statistics.
 
-  For more information about teh use of Imperva API, please visit:
+  For more information about the use of Imperva API, please visit:
   - [Imperva Sites API](https://docs.imperva.com/bundle/cloud-application-security/page/api/sites-api.htm)
   - [Imperva Traffic API](https://docs.imperva.com/bundle/cloud-application-security/page/api/traffic-api.htm)
 
