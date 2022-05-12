@@ -1,19 +1,21 @@
 # API4SEC
 
-So, would you like to create an statistics/audit report to see how many visits,hits and threats were per site for each Imperva policy ?
+* **IMPERVA_Statistics.ipynb**
 
-Again, APIs to the rescue.  I will show you a way to create a report based on timeseries API endpoints provided by Imperva.  The following operations enable you to retrieve traffic statistics for sites and accounts.
+  So, would you like to create an statistics/audit report to see how many visits,hits and threats were per site for each Imperva policy ?
 
-Whenever you're doing data analysis in Python your most likely using Pandas since it's widely used and, most importantly, one of the best tools available for data analytics.
+  Again, APIs to the rescue.  I will show you a way to create a report based on timeseries API endpoints provided by Imperva.  The following operations enable  you to retrieve traffic statistics for sites and accounts.
 
-This notebook is going to show you a basic example of how you can use the pandas to generate a dataframe with API data, also assumes a little familiarity with Pandas libraries.
+  Whenever you're doing data analysis in Python your most likely using Pandas since it's widely used and, most importantly, one of the best tools available for data analytics.
 
-We will use the following Imperva endpoints:
+  This notebook is going to show you a basic example of how you can use the pandas to generate a dataframe with API data, also assumes a little familiarity with Pandas libraries.
 
-*/api/prov/v1/sites/list* to list sites and */api/stats/v1* to get site statistics.
+  We will use the following Imperva endpoints:
 
-For more information about teh use of Imperva API, please visit:
-- [Imperva Sites API](https://docs.imperva.com/bundle/cloud-application-security/page/api/sites-api.htm)
-- [Imperva Traffic API](https://docs.imperva.com/bundle/cloud-application-security/page/api/traffic-api.htm)
+  */api/prov/v1/sites/list* to list sites and */api/stats/v1* to get site statistics.
 
-Enjoy!
+  For more information about teh use of Imperva API, please visit:
+  - [Imperva Sites API](https://docs.imperva.com/bundle/cloud-application-security/page/api/sites-api.htm)
+  - [Imperva Traffic API](https://docs.imperva.com/bundle/cloud-application-security/page/api/traffic-api.htm)
+
+  Enjoy!
